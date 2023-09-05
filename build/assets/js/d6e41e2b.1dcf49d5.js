@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[1859],{7136:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/MxConfig-docusaurus/build/blog/tags/facebook","allTagsPath":"/MxConfig-docusaurus/build/blog/tags","count":1}')}}]);
